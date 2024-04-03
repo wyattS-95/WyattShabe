@@ -7,20 +7,20 @@ Here's a brief overview my favorite projects found in this repository:
 
 ### Project Name 1: Brief description of the project and its significance. (project from 215)
 
-Technologies used: List of languages, frameworks, and tools utilized.
+Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
 ### Project Name 2: Brief description of the project and its significance. (good asp.net mvc project)
 
-Technologies used: List of languages, frameworks, and tools utilized.
+Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
 ### Project Name 3: Brief description of the project and its significance. (llm project)
 
-Technologies used: List of languages, frameworks, and tools utilized.
-Link to the project folder or relevant files.
-
-There are much more projects that can be found in this repository so feel free to explore.
+Technologies used: List of languages, frameworks, and tools utilized.  
+Link to the project folder or relevant files.  
+  
+There are much more projects that can be found in this repository so feel free to explore.  
 
 ## Why Hire Me?
 Passion for Problem-Solving: I'm passionate about tackling complex problems and finding innovative solutions through code.  
