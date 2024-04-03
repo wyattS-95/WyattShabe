@@ -23,9 +23,9 @@ Link to the project folder or relevant files.
 There are much more projects that can be found in this repository so feel free to explore.
 
 ## Why Hire Me?
-Passion for Problem-Solving: I'm passionate about tackling complex problems and finding innovative solutions through code.
-/nStrong Technical Skills: Proficient in various programming languages, frameworks, and tools, as evidenced by the diverse range of projects in this repository.
-Team Player: I thrive in collaborative environments and enjoy working with others to achieve common goals.
+Passion for Problem-Solving: I'm passionate about tackling complex problems and finding innovative solutions through code.  
+Strong Technical Skills: Proficient in various programming languages, frameworks, and tools, as evidenced by the diverse range of projects in this repository.  
+Team Player: I thrive in collaborative environments and enjoy working with others to achieve common goals.  
 Continuous Learner: Committed to staying updated with the latest technologies and industry trends, always seeking opportunities for growth and improvement.
 
 ## Get in Touch
