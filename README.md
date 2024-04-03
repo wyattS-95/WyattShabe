@@ -23,13 +23,14 @@ Link to the project folder or relevant files.
 There are much more projects that can be found in this repository so feel free to explore.  
 
 ## Why Hire Me?
-Passion for Problem-Solving: I'm passionate about tackling complex problems and finding innovative solutions through code.  
-Strong Technical Skills: Proficient in various programming languages, frameworks, and tools, as evidenced by the diverse range of projects in this repository.  
-Team Player: I thrive in collaborative environments and enjoy working with others to achieve common goals.  
-Continuous Learner: Committed to staying updated with the latest technologies and industry trends, always seeking opportunities for growth and improvement.
+Passion for Problem-Solving: I'm passionate about taking on complex problems and finding innovative solutions through code.  
+Strong Technical Skills: Proficient in various programming languages, frameworks, and tools, as shown by the projects in this repository.  
+Team Player: I enjoy working with others and thrive in collaborative environments.  
+Continuous Learner: Committed to staying updated with the latest technologies and industry trends, always seeking opportunities for growth and improvement.  
+Fast Learner: Able to quickly adapt new and required skills to complete projects.  
 
 ## Get in Touch
-I'm excited about the prospect of contributing to innovative projects and collaborating with talented teams. If you're interested in discussing potential opportunities or have any questions about my projects, please feel free to reach out to me:
+I'm excited to contribute to innovative projects and collaborate with talented teams. If you're interested in discussing potential opportunities or have any questions about my projects, please feel free to reach out to me:
 
 ### Email: washabe95@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/wyatt-shabe-a03a4b255/
