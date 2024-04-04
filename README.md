@@ -15,7 +15,7 @@ Link to the project folder or relevant files.
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
-### Project Name 3: Brief description of the project and its significance. (llm project)
+### Project Name 3: Brief description of the project and its significance. (ml project)
 
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.  
