@@ -5,7 +5,7 @@ This repository showcases the coding projects I have completed. As a software en
 ## Projects
 Here's a brief overview my favorite projects found in this repository:
 
-### Project Name 1: Brief description of the project and its significance. (project from 215)
+### Project Name 1: Brief description of the project and its significance. (ml project)
 
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
@@ -15,7 +15,7 @@ Link to the project folder or relevant files.
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
-### Project Name 3: Brief description of the project and its significance. (ml project)
+### Project Name 3: Brief description of the project and its significance. (react native project)
 
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.  
