@@ -10,7 +10,7 @@ Here's a brief overview of my favorite projects found in this repository:
 Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Colab  
 [Link to project here](https://github.com/wyattS-95/WyattShabe/blob/main/AIBB_F1.ipynb)
 
-### Weather App: Brief description of the project and its significance.
+### Weather App with AI Assistant: This project combines a weather forecast application with an AI assistant, providing both weather information and interactive chatbot capabilities. This project demonstrates the ability to work with external APIs as well as focus on both functionality and user experience.
 
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
