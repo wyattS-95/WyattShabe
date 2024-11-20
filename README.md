@@ -13,7 +13,7 @@ Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Cola
 ### Weather App with AI Assistant: This project combines a weather forecast application with an AI assistant, providing both weather information and interactive chatbot capabilities. This project demonstrates the ability to work with external APIs as well as focus on both functionality and user experience.
 
 Technologies used: HTML, CSS, JavaScript, Botpress Webchat, OpenWeatherMap API, and Botpress Cloud  
-Link to the project here.
+[Link to project folder here](https://github.com/wyattS-95/WyattShabe/tree/main/Weather)
 
 ### Arbitration Calculator: This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present
 
