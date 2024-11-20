@@ -8,7 +8,7 @@ Here's a brief overview of my favorite projects found in this repository:
 ### A.I.B.B.: This project involved building a machine learning pipeline using XGBoost and scikit-learn to predict the finishing position of a Formula 1 driver in a race based on historical performance, track characteristics, and driver-specific factors. This project demonstrates experience with real-world data challenges, such as missing values, categorical encoding, and handling domain-specific nuances.
 
 Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Colab  
-Link to the project folder or relevant files.
+[Link to project here](https://github.com/wyattS-95/WyattShabe/blob/main/AIBB_F1.ipynb)
 
 ### Weather App: Brief description of the project and its significance.
 
