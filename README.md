@@ -15,9 +15,9 @@ Link to the project folder or relevant files.
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
-### Arbitration Calculator: Brief description of the project and its significance.
+### Arbitration Calculator: This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present
 
-Technologies used: List of languages, frameworks, and tools utilized.  
+Technologies used: C++, g++, VSCode
 Link to the project folder or relevant files.    
 
 ## Why Hire Me?
