@@ -9,20 +9,22 @@ Here's a brief overview of my favorite projects found in this repository:
 This project involved building a machine learning pipeline using XGBoost and scikit-learn to predict the finishing position of a Formula 1 driver in a race based on historical performance, track characteristics, and driver-specific factors. This project demonstrates experience with real-world data challenges, such as missing values, categorical encoding, and handling domain-specific nuances.
 
 Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Colab  
-[Link to project here](https://github.com/wyattS-95/WyattShabe/blob/main/AIBB_F1.ipynb)
+
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AIBB_F1.ipynb)
 
 ### Weather App with AI Assistant: 
 This project combines a weather forecast application with an AI assistant, providing both weather information and interactive chatbot capabilities. This project demonstrates the ability to work with external APIs as well as focus on both functionality and user experience.
 
-Technologies used: HTML, CSS, JavaScript, Botpress Webchat, OpenWeatherMap API, and Botpress Cloud  
-[Link to project folder here](https://github.com/wyattS-95/WyattShabe/tree/main/Weather)
+Technologies used: HTML, CSS, JavaScript, Botpress Webchat, OpenWeatherMap API, and Botpress Cloud 
+
+[Visit the project folder here](https://github.com/wyattS-95/WyattShabe/tree/main/Weather)
 
 ### Arbitration Calculator: 
 This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present
 
 Technologies used: C++, g++, VSCode  
 
-[Link to project here](https://github.com/wyattS-95/WyattShabe/blob/main/arb_calc.cpp)    
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/arb_calc.cpp)    
 
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
