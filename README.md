@@ -1,26 +1,24 @@
 # Wyatt Shabe
 ## Welcome to My GitHub Repository!
-This repository showcases the coding projects I have completed. As a software engineering student, I believe in continually searching for new challenges to learn new skills and improve the ones I already possess. This collection represents my exploration of computer science and software engineering. It shows what I have learned and demonstrates my problem-solving skills.
+This repository showcases the coding projects I have completed. As a software engineering student, I am continually searching for new challenges to learn new skills and improve the ones I already possess. This collection represents my exploration of computer science and software engineering. It shows what I have learned and demonstrates my problem-solving skills.
 
 ## Projects
-Here's a brief overview my favorite projects found in this repository:
+Here's a brief overview of my favorite projects found in this repository:
 
-### Project Name 1: Brief description of the project and its significance. (ml project)
+### A.I.B.B.: This project involved building a machine learning pipeline using XGBoost and scikit-learn to predict the finishing position of a Formula 1 driver in a race based on historical performance, track characteristics, and driver-specific factors. This project demonstrates experience with real-world data challenges, such as missing values, categorical encoding, and handling domain-specific nuances.
+
+Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Colab  
+Link to the project folder or relevant files.
+
+### Weather App: Brief description of the project and its significance.
 
 Technologies used: List of languages, frameworks, and tools utilized.  
 Link to the project folder or relevant files.
 
-### Project Name 2: Brief description of the project and its significance. (good asp.net mvc project)
+### Arbitration Calculator: Brief description of the project and its significance.
 
 Technologies used: List of languages, frameworks, and tools utilized.  
-Link to the project folder or relevant files.
-
-### Project Name 3: Brief description of the project and its significance. (react native project)
-
-Technologies used: List of languages, frameworks, and tools utilized.  
-Link to the project folder or relevant files.  
-  
-There are much more projects that can be found in this repository so feel free to explore.  
+Link to the project folder or relevant files.    
 
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
