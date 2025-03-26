@@ -1,6 +1,6 @@
 # Wyatt Shabe
 ## Welcome to My GitHub Repository!
-This repository showcases the coding projects I have completed. As a software engineering student, I am continually searching for new challenges to learn new skills and improve the ones I already possess. This collection represents my exploration of computer science and software engineering. It shows what I have learned and demonstrates my problem-solving skills.
+This repository showcases the coding projects I have completed and am currently working on. As a software engineering student, I am continually searching for new challenges to learn new skills and improve the ones I already possess. This collection represents my exploration of computer science and software engineering. It shows what I have learned and demonstrates my problem-solving skills.
 
 ## Projects
 Here's a brief overview of my favorite projects found in this repository:
