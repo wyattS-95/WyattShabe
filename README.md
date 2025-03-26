@@ -22,7 +22,7 @@ Technologies used: HTML, CSS, JavaScript, Botpress Webchat, OpenWeatherMap API, 
 
 
 ### Arbitration Calculator: 
-This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present
+This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present.
 
 Technologies used: C++, g++, VSCode  
 
@@ -30,7 +30,7 @@ Technologies used: C++, g++, VSCode
 
 
 ### Local LLM: 
-This project is designed to train, fine-tune, and deploy large language models (LLMs) locally. The focus is on using technologies like **LoRA** (Low-Rank Adaptation) and **bitsandbytes** for model optimization. This project is in-progress since the fine-tuning and deployment process is resource-intensive
+This project is designed to train, fine-tune, and deploy large language models (LLMs) locally. The focus is on using technologies like **LoRA** (Low-Rank Adaptation) and **bitsandbytes** for model optimization. This project is in-progress since the fine-tuning and deployment process is resource-intensive.
 
 Technologies used: Python, Hugging Face Transformers, LoRA, bitsandbytes, FastAPI, Docker, Hugging Face Hub
 
