@@ -34,7 +34,7 @@ This project is designed to train, fine-tune, and deploy large language models (
 
 Technologies used: Python, Hugging Face Transformers, LoRA, bitsandbytes, FastAPI, Docker, Hugging Face Hub
 
-[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/llm-local-project) 
+[Visit the project folder here](https://github.com/wyattS-95/WyattShabe/blob/main/llm-local-project) 
 
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
