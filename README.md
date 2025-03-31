@@ -29,13 +29,6 @@ Technologies used: C++, g++, VSCode
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/arb_calc.cpp)   
 
 
-### Local LLM: 
-This project is designed to train, fine-tune, and deploy large language models (LLMs) locally. The focus is on using technologies like **LoRA** (Low-Rank Adaptation) and **bitsandbytes** for model optimization. This project is in-progress since the fine-tuning and deployment process is resource-intensive.
-
-Technologies used: Python, Hugging Face Transformers, LoRA, bitsandbytes, FastAPI, Docker, Hugging Face Hub
-
-[Visit the project folder here](https://github.com/wyattS-95/WyattShabe/blob/main/llm-local-project) 
-
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
 **Strong Technical Skills:** Proficient in various programming languages, frameworks, and tools, as shown by the projects in this repository.  
