@@ -33,7 +33,7 @@ This project is a prototype for an AI-driven hedge fund that integrates fundamen
 
 Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, cvxpy, yfinance, requests, matplotlib, HuggingFace  
 
-[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AI-hedgeFund-prototype.ipynb)
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AI_hedgeFund_prototype.ipynb)
 
 
 ## Why Hire Me?
