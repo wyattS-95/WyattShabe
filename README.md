@@ -28,6 +28,13 @@ Technologies used: C++, g++, VSCode
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/arb_calc.cpp)   
 
+### AI-Driven Hedge Fund Prototype: 
+This project is a prototype for an AI-driven hedge fund that integrates fundamental and factor-based investing strategies. It uses machine learning models (XGBoost, mocked LightGBM) and NLP (BERT via Hugging Face API) to analyze stock financials, earnings sentiment, and quantitative factors like momentum and volatility. A hybrid decision engine with reinforcement learning optimizes portfolio weights, demonstrating a scalable approach to automated trading. This project highlights skills in financial modeling, API integration, and AI system design.
+
+Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, cvxpy, yfinance, requests, matplotlib, HuggingFace  
+
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AI-hedgeFund-prototype.ipynb)
+
 
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
@@ -39,5 +46,5 @@ Technologies used: C++, g++, VSCode
 ## Get in Touch
 I'm excited to contribute to innovative projects and collaborate with talented teams. If you're interested in discussing potential opportunities or have any questions about my projects, please feel free to reach out to me:
 
-#### Email: washabe95@gmail.com
+#### Email: wshabe@liberty.edu
 #### LinkedIn: https://www.linkedin.com/in/wyatt-shabe-a03a4b255/
