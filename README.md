@@ -35,6 +35,13 @@ Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, cvxpy, yfinance
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AI_hedgeFund_prototype.ipynb)
 
+### Mini GPT: 
+This project is a minimal implementation of a GPT-like transformer model built from scratch using PyTorch. This project is designed to run efficiently on a CPU with limited memory. Mini GPT processes word-level text data to predict the next word in a sequence and generate coherent text based on a given prompt. It does this by using a single transformer block with multi-head self-attention, making it lightweight yet powerful enough to learn patterns in small datasets. This project showcases my ability to implement complex machine learning architectures, understand transformer models, and optimize for resource-constrained environments.
+
+Technologies used: Python, PyTorch, NumPy, tqdm  
+
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/mini_gpt.ipynb)
+
 
 ## Why Hire Me?
 **Passion for Problem-Solving:** I'm passionate about taking on complex problems and finding innovative solutions through code.  
