@@ -42,7 +42,7 @@ Technologies used: Python, PyTorch, NumPy, tqdm
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/mini_gpt.ipynb)
 
-**Sensor Fusion for Drone Tracking**:
+### Sensor Fusion for Drone Tracking:
 This project implements a Kalman Filter to fuse noisy radar and infrared sensor data for tracking a drone’s 2D trajectory, enhancing situational awareness in a simulated Air Force ISR scenario. It generates synthetic sensor data, applies data fusion to estimate accurate positions, and visualizes results to demonstrate improved tracking accuracy. This project showcases skills in sensor fusion, data processing, and visualization, aligning with defense applications like battlespace awareness and intelligence, surveillance, and reconnaissance (ISR).
 
 **Technologies used**: Python, NumPy, Pandas, Matplotlib, FilterPy
