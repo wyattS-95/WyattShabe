@@ -12,15 +12,6 @@ Technologies used: Python, Pandas, NumPy, XGBoost, scikit-learn, and Google Cola
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/AIBB_F1.ipynb)  
 
-
-### Weather App with AI Assistant: 
-This project combines a weather forecast application with an AI assistant, providing both weather information and interactive chatbot capabilities. This project demonstrates the ability to work with external APIs as well as focus on both functionality and user experience.
-
-Technologies used: HTML, CSS, JavaScript, Botpress Webchat, OpenWeatherMap API, and Botpress Cloud 
-
-[Visit the project folder here](https://github.com/wyattS-95/WyattShabe/tree/main/Weather)  
-
-
 ### Arbitration Calculator: 
 This project involved creating a betting arbitration calculator that determines the ideal stake amounts to bet on a favored and underdog prop. By analyzing the odds and calculating payouts, it ensures a profit regardless of the outcome, leveraging discrepancies in betting odds to create an "arbitrage opportunity." This project demonstrates the ability to address practical problems in the sports betting or financial domain, where arbitrage opportunities are present.
 
@@ -48,6 +39,13 @@ This project implements a Kalman Filter to fuse noisy radar and infrared sensor 
 Technologies used: Python, NumPy, Pandas, Matplotlib, FilterPy
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/sensor_fusion_project.ipynb)
+
+### Anomaly Detection in Sensor Data:
+This project develops a machine learning pipeline using an Isolation Forest to detect anomalies in simulated sensor data (e.g., temperature spikes), mimicking real-world military applications like equipment failure detection or threat identification. It includes data preprocessing, model training, evaluation with precision, recall, and F1-score, and an interactive Streamlit dashboard for visualizing anomalies. This project demonstrates proficiency in AI/ML, data analysis, and rapid prototyping, aligning with defense needs for situational awareness and sensor data fusion.
+
+Technologies used: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit
+
+[Visit the project here]([<insert-link>](https://github.com/wyattS-95/WyattShabe/blob/main/ML_anomaly_detection.ipynb))
 
 
 ## Why Hire Me?
