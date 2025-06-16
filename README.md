@@ -45,7 +45,7 @@ This project develops a machine learning pipeline using an Isolation Forest to d
 
 Technologies used: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit
 
-[Visit the project here]([<insert-link>](https://github.com/wyattS-95/WyattShabe/blob/main/ML_anomaly_detection.ipynb))
+[Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/ML_anomaly_detection.ipynb)
 
 
 ## Why Hire Me?
