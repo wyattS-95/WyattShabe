@@ -41,9 +41,9 @@ Technologies used: Python, NumPy, Pandas, Matplotlib, FilterPy
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/sensor_fusion_project.ipynb)
 
 ### Anomaly Detection in Sensor Data:
-This project develops a machine learning pipeline using an Isolation Forest to detect anomalies in simulated sensor data (e.g., temperature spikes), mimicking real-world military applications like equipment failure detection or threat identification. It includes data preprocessing, model training, evaluation with precision, recall, and F1-score, and an interactive Streamlit dashboard for visualizing anomalies. This project demonstrates proficiency in AI/ML, data analysis, and rapid prototyping, aligning with defense needs for situational awareness and sensor data fusion.
+This project develops a machine learning pipeline using an Isolation Forest to detect anomalies in simulated sensor data (e.g., temperature spikes), mimicking real-world military applications like equipment failure detection or threat identification. It includes data preprocessing, model training, and evaluation with precision, recall, and F1-score. This project demonstrates proficiency in AI/ML, data analysis, and rapid prototyping, aligning with defense needs for situational awareness and sensor data fusion.
 
-Technologies used: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit
+Technologies used: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
 [Visit the project here](https://github.com/wyattS-95/WyattShabe/blob/main/ML_anomaly_detection.ipynb)
 
